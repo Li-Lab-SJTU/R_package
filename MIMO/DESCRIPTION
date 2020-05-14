@@ -1,0 +1,13 @@
+Package: MIMO
+Type: Package
+Title: Missing-value Imputation Methods of Optimum strategy
+Version: 1.0.0
+Author: Yihao Guo
+Maintainer: Yihao Guo <sjtugyh@sjtu.edu.cn>
+Description: Constructing simulated data sets based on the characteristics of input data. Based on those simulations, the missing mechanism and the optimal imputing method are recommended.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.1), tmvtnorm, norm, pcaMethods, impute, imputeLCMD
+RoxygenNote: 7.1.0
+Imports: imputeLCMD
